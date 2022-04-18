@@ -1,0 +1,2 @@
+# pti102
+TUGAS PTI
